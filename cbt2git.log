@@ -1,0 +1,20 @@
+2023-04-03 02:09:15.756601 - Initialized conversion of CBT713
+2023-04-03 02:09:15.853542 - Received CBT.V504.FILE713.PDS from FILE713.XMI 
+2023-04-03 02:09:15.856291 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE713.PDS, moved to PDS/$$$#DATE
+2023-04-03 02:09:15.857487 - Found $$$DOC.txt (text/plain) in CBT.V504.FILE713.PDS, moved to PDS/$$$DOC
+2023-04-03 02:09:15.859747 - Found $$NOTE1.eml (message/rfc822), moved to CBT713/$$NOTE1.eml
+2023-04-03 02:09:15.860794 - Found $$NOTE2.txt (text/plain) in CBT.V504.FILE713.PDS, moved to PDS/$$NOTE2
+2023-04-03 02:09:15.861923 - Found $$NOTE3.txt (text/plain) in CBT.V504.FILE713.PDS, moved to PDS/$$NOTE3
+2023-04-03 02:09:15.862867 - Found @FILE713.txt (text/plain) in CBT.V504.FILE713.PDS, moved to PDS/@FILE713
+2023-04-03 02:09:15.863873 - Found EMPTYOLD.txt (text/plain) in CBT.V504.FILE713.PDS, moved to PDS/EMPTYOLD
+2023-04-03 02:09:15.864877 - Found EMPTYPD$.jcl (text/plain) in CBT.V504.FILE713.PDS, moved to PDS/EMPTYPD$
+2023-04-03 02:09:15.865859 - Found EMPTYPDJ.jcl (text/plain) in CBT.V504.FILE713.PDS, moved to PDS/EMPTYPDJ
+2023-04-03 02:09:15.866815 - Found EMPTYPDS.txt (text/plain) in CBT.V504.FILE713.PDS, moved to PDS/EMPTYPDS
+2023-04-03 02:09:15.872346 - Found LOADLIB.xmi (application/xmit) in CBT.V504.FILE713.PDS
+2023-04-03 02:09:15.878933   - Received RECFM=U data, stored XMIT file as CBT713/LOADLIB.xmi
+2023-04-03 02:09:15.880013 - Found PGMIN.txt (text/plain) in CBT.V504.FILE713.PDS, moved to PDS/PGMIN
+2023-04-03 02:09:15.881092 - Found PGMOUT.txt (text/plain) in CBT.V504.FILE713.PDS, moved to PDS/PGMOUT
+2023-04-03 02:09:15.882139 - Found SUBIN.txt (text/plain) in CBT.V504.FILE713.PDS, moved to PDS/SUBIN
+2023-04-03 02:09:15.883233 - Found SUBLR.txt (text/plain) in CBT.V504.FILE713.PDS, moved to PDS/SUBLR
+2023-04-03 02:09:15.884346 - Found SUBOUT.txt (text/plain) in CBT.V504.FILE713.PDS, moved to PDS/SUBOUT
+2023-04-03 02:09:15.885493 - Found TESTIOT.txt (text/plain) in CBT.V504.FILE713.PDS, moved to PDS/TESTIOT
